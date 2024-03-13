@@ -1,7 +1,7 @@
 # Choose Your Own Adventure: UNC vs. Duke Basketball Game
 
 ## About the Project
-This is a Python-based interactive game that transports players to the heart of a high-stakes basketball rivalry between the UNC Tarheels and the Duke Blue Devils. Players will navigate through critical decisions, including free throws and head-to-head matchups, aiming to lead their team to victory and claim the title of the "Best Basketball Team of the Millennium." I created this as a graded project for my Introductory to Programming course (COMP 110)
+This is a Python-based interactive game that transports players to the heart of a high-stakes basketball rivalry between the UNC Tarheels and the Duke Blue Devils. Players will navigate through critical decisions, including free throws and head-to-head matchups, aiming to lead their team to victory and claim the title of the "Best Basketball Team of the Millennium." I created this as a graded project for my Introductory to Programming course (COMP 110).
 
 ## Built With:
 * Python
