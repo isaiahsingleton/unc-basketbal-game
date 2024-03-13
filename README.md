@@ -29,3 +29,8 @@ cd unc-basketball-game
 3. Run the game
 ```
 python3 UNC-Basketball-Game-Program.py
+```
+## Usage
+Upon launching, the game will prompt you to enter your player's name and make your first choice: practice free throws, face off against your opponent directly, or take a strategic timeout. Your decisions will lead you through a narrative where your performance in each segment affects the overall outcome.
+
+
