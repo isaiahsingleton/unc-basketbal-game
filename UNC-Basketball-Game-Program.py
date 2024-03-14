@@ -1,5 +1,4 @@
 """Choose Your Own Adventure!"""
-__author__ = "730613206"
 
 from random import randint
 
